@@ -1,6 +1,8 @@
 semantic forms
 ==============
 
+[![Join the chat at https://gitter.im/mrsdev/semantic_forms](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mrsdev/semantic_forms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Form generators leveraging semantic web standards RDF(S), OWL, SPARQL , JSON-LD , ...
 
 This will be a building block for web application frameworks,
